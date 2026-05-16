@@ -58,16 +58,16 @@ conventions:
   - Guardar todo lead en CRM con timestamp y canal de origen
 
 pricing:
-  plan_basico:
-    - FAQ automatico en redes
-    - Consulta basica de vehiculos
-    - Captura de leads
-    precio: $300-400/mes
-  plan_completo:
-    - Todo lo del plan basico
-    - CRM completo con inventario
-    - Cotizaciones PDF
+  plan_base:
+    - Consulta de vehiculos por placa (RUNT/SOAT/multas)
+    - Inventario basico manual
+    - Cotizaciones en PDF
     - Coordinacion de test drives
-    - Seguimiento post-venta
-    - Campanas de email/WhatsApp
-    precio: $600-1000/mes
+    - Seguimiento post-venta basico
+    precio: $300-600/mes
+  functions_advanced:
+    - F1: Auto-Vendedor Digital (bot redes + lead qualification + funnel) — +$200-400/mes
+    - F3: Analista de Mercado y Competencia — +$200-500/mes
+    - F5: Memoria y Perfil Premium — +$150-300/mes
+    - F7: Reportes Ejecutivos Automaticos — +$150-300/mes
+    - F9: Campanas Email + WhatsApp Automatizadas — +$200-500/mes

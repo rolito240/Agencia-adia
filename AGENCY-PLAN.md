@@ -29,13 +29,26 @@ PIXEL AGENCY
 │   ├── Data Scientist ────────────── ML, estadistica, Python cientifico, prediccion
 │   └── AI Agent Engineer ─────────── construye los agentes (nosotros)
 │
-├── CAPA VERTICAL (Industrias)
+├── CAPA VERTICAL (Industrias) ── AGENTES BASE
 │   ├── Asistente Educativo ───────── colegios, instituciones academicas
 │   ├── Asistente Clinico ─────────── consultorios, clinicas, odontologos
 │   ├── Asistente Legal ───────────── abogados, firmas legales, notarias
 │   ├── Asistente Comercial ───────── vendedores, equipos de ventas, inmobiliarias
 │   ├── Asistente Logistico ───────── transporte de carga, flotillas, logistica
-│   └── Asistente Personal Premium ── publico general via WhatsApp/Telegram
+│   ├── Asistente Personal Premium ── publico general via WhatsApp/Telegram
+│   └── Asistente Venta de Autos ──── concesionarios, compraventas (Colombia)
+│
+├── CAPA DE FUNCIONES AVANZADAS ── ADD-ONS PREMIUM
+│   ├── F1. Auto-Vendedor Digital ──── Bot redes + lead qualification + funnel
+│   ├── F2. Asistente Ventas 24/7 ──── Ciclo completo de ventas automatizado
+│   ├── F3. Analista de Mercado ────── Monitoreo de competencia y precios
+│   ├── F4. Multi-Canal Hub ────────── Unifica WhatsApp/Telegram/IG/FB/Web
+│   ├── F5. Memoria Premium ────────── Perfil avanzado de cliente con historial
+│   ├── F6. Documentos Pro ─────────── Documentos automaticos + firma digital
+│   ├── F7. Reportes Ejecutivos ────── Dashboards y metricas automaticas
+│   ├── F8. Asistente de Voz ───────── Atencion telefonica con IA
+│   ├── F9. Campañas Automatizadas ─── Email + WhatsApp marketing
+│   └── F10. Onboarding Personal ───── Capacitacion de empleados automatica
 │
 └── CAPA DE INFRAESTRUCTURA
     ├── Hosting (servidor propio o cloud)
@@ -43,7 +56,6 @@ PIXEL AGENCY
     ├── Base de datos compartida (clientes, sesiones, planes)
     └── Dashboard de monitoreo (uso, facturacion, rendimiento)
 ```
-
 ---
 
 ## CAPA HORIZONTAL — Perfiles Base
@@ -485,6 +497,8 @@ Propongo arrancar por aqui porque:
 
 ## Resumen de Precios Sugeridos
 
+### Agentes Base
+
 | Producto | Setup | Mensual |
 |----------|-------|---------|
 | Full-Stack Developer | $800-2000 | $300-500 |
@@ -496,7 +510,36 @@ Propongo arrancar por aqui porque:
 | Asistente Comercial | — | $200-500 |
 | Asistente Logistico | — | $300-700 |
 | Asistente Personal Premium | — | $10-50 |
-| Asistente Venta de Autos | $300-600 setup | $300-1000/mes |
+| Asistente Venta de Autos | $300-600 | $300-600 |
+
+### Funciones Avanzadas (Add-ons Premium)
+
+| ID | Funcion | Precio/mes |
+|----|---------|------------|
+| F1 | Auto-Vendedor Digital (bot redes + lead qualification) | $200-400 |
+| F2 | Asistente de Ventas 24/7 (ciclo completo automatizado) | $300-600 |
+| F3 | Analista de Mercado y Competencia | $200-500 |
+| F4 | Multi-Canal Hub (WhatsApp + Telegram + IG + FB + Web) | $200-400 |
+| F5 | Memoria y Perfil de Cliente Premium | $150-300 |
+| F6 | Documentos Automaticos Pro (firma digital incluida) | $200-400 |
+| F7 | Reportes Ejecutivos Automaticos | $150-300 |
+| F8 | Asistente de Voz (atencion telefonica IA) | $400-700 |
+| F9 | Campanas Email + WhatsApp Automatizadas | $200-500 |
+| F10 | Onboarding y Capacitacion de Personal | $200-400 |
+
+### Ejemplo de Ingreso por Cliente (Concesionario)
+
+```
+Asistente Venta de Autos (base):  $500/mes
++ F1. Auto-Vendedor Digital:      $300/mes
++ F3. Analista de Mercado:        $300/mes
++ F5. Memoria Premium:            $200/mes
++ F7. Reportes Ejecutivos:        $200/mes
++ F9. Campanas Automatizadas:     $300/mes
+------------------------------------------
+Total:                           $1,800/mes
+Con bundle 5 func (-25%):        $1,475/mes
+```
 
 ---
 
